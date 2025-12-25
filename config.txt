@@ -1,0 +1,10 @@
+# HTTPS server Configuration File
+
+# The Number of Threads in the the Threadpool
+THREADS=20
+
+# The port number of the HTTPS server
+PORT=4433
+
+# The HOME folder of the HTTP server
+HOME=./httphome
